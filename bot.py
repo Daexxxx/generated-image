@@ -21,7 +21,7 @@ intents = Intents.default()
 intents.message_content = True
 
 bot = commands.Bot(
-    command_prefix="!",
+    command_prefix="/",
     description="Make art.",
     intents=intents,
 )
