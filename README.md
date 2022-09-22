@@ -5,7 +5,7 @@ Brought to you by [Haze: Saltborne](https://haze-saltborne.com), a group buildin
 
 *Note there is nothing about this that limits the bot to D&D/fantasy art. Use it however you choose!*
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hxAexO?referralCode=jwithing)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/WxrhQW?referralCode=C1lQJe))
 
 ## Setup
 I'm hosting this bot on Railway. If you click the button to "Deploy on Railway" above, you'll just need two environmental variables:
