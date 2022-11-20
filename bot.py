@@ -17,7 +17,7 @@ STABLE_DIFFUSION_TOKEN=("YOUR TOKEN")
 load_dotenv()
 
 stability_api = client.StabilityInference(
-    key=os.environ['STABLE_DIFFUSION_TOKEN'],
+    key=os.environ[STABLE_DIFFUSION_TOKEN],
     verbose=True,
 )
 
@@ -74,4 +74,4 @@ async def load(ctx, *, prompt):
                 await ctx.send(file=file)
 
 
-bot.run(os.environ["DISCORD_TOKEN"])
+bot.run(os.environ[DISCORD_TOKEN])
