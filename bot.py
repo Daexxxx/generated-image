@@ -14,8 +14,10 @@ load_dotenv()
 
 DISCORD_TOKEN=("YOUR TOKEN")
 
+STABLE_DIFFUSION_TOKEN=("YOUR TOKEN")
+
 stability_api = client.StabilityInference(
-    key=os.environ['STABLE_DIFFUSION_TOKEN'],
+    key=os.environ[STABLE_DIFFUSION_TOKEN],
     verbose=True,
 )
 
