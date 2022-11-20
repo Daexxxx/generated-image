@@ -1,4 +1,4 @@
-discord.py==2.0.1
-python-dotenv==0.20.0
+discord.py
+python-dotenv
 stability_sdk
-protobuf==3.20.1
+protobuf
