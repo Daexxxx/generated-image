@@ -1,4 +1,4 @@
-# DND AI Art Bot
+# AI Art Bot
 A Discord bot that is compatible with Stable Diffusion's Dreamstudio. 
 
 *Note there is nothing about this that limits the bot to D&D/fantasy art. Use it however you choose!*
